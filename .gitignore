@@ -1,0 +1,4 @@
+main.onefile-build/
+main.build/
+main.dist/
+win-scheduler.exe
